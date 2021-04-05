@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: rgba(146, 228, 220, 0.842);
+}
+.item1{
+   float:left;
+    display: inline-block;
+    border:5px solid teal;
+    padding:2%;
+    margin:2%;
+}

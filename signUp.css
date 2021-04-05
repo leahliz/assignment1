@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+.signUpForm{
+    border:5px solid black ;
+    margin:5%;
+    padding:5%;
+    margin-left: 15%;
+    color:black;
+    background-color: rgba(190, 184, 169, 0.651);
+    font-weight: bold;
+    font-size: larger;
+}

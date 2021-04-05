@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-size: cover;
+}
+.form1{
+    background-blend-mode:soft-light;
+    border:5px solid rgba(12, 11, 11, 0.979);
+    margin:5%;
+    padding:5%;
+    background-color:rgba(190, 184, 169, 0.623);
+    margin-left: 15%;
+    font-weight: bold;
+    font-size: larger;
+}
+#emailHelp{
+    color:black;
+    font-weight: normal;
+    font-size: smaller;
+}
